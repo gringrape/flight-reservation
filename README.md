@@ -15,3 +15,5 @@ Foo1 -> Foo5 : To database
 Foo1 -> Foo6 : To collections
 @enduml
 ```
+
+![](./diagrams/md-sample-sequence.svg)
