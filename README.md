@@ -1,5 +1,5 @@
 # flight-reservation
 
-### Example sequence
+## Sequence diagram
 
-![](./diagrams/sample-sequence.svg)
+![](./diagrams/sequence-diagram.svg)
